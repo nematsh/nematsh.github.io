@@ -33,7 +33,7 @@ const About = () => {
             />
           </h1>
           <p id = 'ps'>
-            I'm a ASDASDASDASD very ambitious student studying Computer Science 
+            I'm a very ambitious student studying Computer Science 
             and Engineering at the University of Connecticut.
             I'm currently looking for internship opportunities or experiences
             that will allow me to gain valuable experience in the software engineering space!
