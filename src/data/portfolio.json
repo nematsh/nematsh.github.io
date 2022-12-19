@@ -7,6 +7,12 @@
             "url": "https://github.com/nematsh/A-pathfinding"
         },
         {
+            "cover": "/portfolio/1/Seam.png",
+            "title": "Seam Carving",
+            "description": "Finding Lowest Energy Seam in an Image",
+            "url": "https://github.com/nematsh/SeamCarving"
+        },
+        {
             "cover": "/portfolio/1/two.jpeg",
             "title": "Upcoming",
             "description": "Soon to be revealed...",
